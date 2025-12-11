@@ -1245,6 +1245,12 @@ body {
     margin: 0;
   }
 
+
+
+  .head {
+    padding-top: 80px;
+  }
+
 }
 
 
@@ -1254,6 +1260,7 @@ body {
   .cta-image {
     left: -20%;
   }
+
 }
 
 @media (max-width: 1460px) {
@@ -1290,6 +1297,11 @@ body {
   }
   .cta-image {
     left: -25%;
+  }
+
+
+  .head {
+    padding-top: 76px;
   }
   
 }
@@ -1391,6 +1403,9 @@ body {
 
 
 
+  .head {
+    padding-top: 65px;
+  }
   .repeat-block-image::before {
     right: 0;
   }
@@ -1692,6 +1707,9 @@ body {
   }
 
 
+  .head {
+    padding-top: 68px;
+  }
   .repeat-block-image::before {
     width: 350px;
     height: 180px;
